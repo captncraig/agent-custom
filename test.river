@@ -1,0 +1,3 @@
+discovery.mdns "test" {
+    service = "_metrics._tcp"
+}
